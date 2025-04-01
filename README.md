@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **"Algoritmos & Programación"**
 
-- 🌱 Programs to future **Python, Java & C++**
+- 🌱 Programs to future **Python, SQL, R, etc...**
 
-- 📫 How to reach me **sbarros33363@universidadean.edu.co**
+- 📫 How to reach me **barroshernandezsantiago@gmail.com**
 
-- ⚡ Fun fact **I'm lazy af but also investigative when interesting**
+- ⚡ Fun fact **Love working with new people and always interested in learning cool stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
